@@ -4,7 +4,7 @@ public class menu
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hola2s");
+System.out.println("hola2ss");
 	}
 
 }
